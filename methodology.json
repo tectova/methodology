@@ -1,10 +1,10 @@
 {
   "canonical_url": "https://tectova.com/methodology",
   "current_binding": {
-    "build_commit": "79f0efe1fb08ae2ab86c829f55a2e5d8c93b22a3",
-    "bundle_id": "f469da1995f75f238fa411aeb6dba8fcf866b2bfd16e54276e7b53053accd68d",
-    "bundle_manifest_sha256": "3b48ef90ba75a1edf19f2b6e16fb6175a2bc0c0997baf5913ac6bb2f25107094",
-    "release_id": "20261007T142249Z-79f0efe1fb08"
+    "build_commit": "9a6b48ea08420a50cd8ee96013192d82e5d9dc4f",
+    "bundle_id": "7408c22c6c34f937bed5c2f4cdf6f408bf78f35ffd06c04579eebf9bf7b9d13e",
+    "bundle_manifest_sha256": "d3ce8365596a7085fd5adb9e9b8b306e97bd7b210c3bc8c7edeef87d1f4b544e",
+    "release_id": "20261008T164256Z-9a6b48ea0842"
   },
   "export_format": 1,
   "schema": "tectova.github-methodology/v1",
